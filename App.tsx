@@ -1,12 +1,11 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-
 import ThirdAnimation from './src/screen/ThirdAnimation'
+import AnimationTrainig1 from './src/screen/AnimationTrainig1'
 
 const App = () => {
   return (
-      // <SecondAnimation />
-      <ThirdAnimation/>
+    <AnimationTrainig1/>
   )
 }
 
